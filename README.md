@@ -6,9 +6,9 @@ To train a model that predict the drawn image correctly
 run train.py
 
 # Dataset struture
-data
-├── Bird
-│   └── image
+# data
+├──# Bird
+│   └──# image
 │       ├── Bird_1613020596973.png
 │       ├── Bird_1613020665245.png
 │       ├── Bird_1613021591310.png
