@@ -5,6 +5,10 @@ To train a model that predict the drawn image correctly
 # How to train the model
 run train.py
 
+# results
+![Screenshot (99)](https://user-images.githubusercontent.com/82750318/126156644-ef3a56e7-6c25-4bb7-8571-410b428f1b84.png)
+
+
 # Dataset struture
 
 data
