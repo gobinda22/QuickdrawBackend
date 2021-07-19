@@ -1,9 +1,11 @@
 # QuickdrawBackend
-#Objective
+# Objective
 To train a model that predict the drawn image correctly
-#How to train the model
+
+# How to train the model
 run train.py
-#Dataset struture
+
+# Dataset struture
 data
 ├── Bird
 │   └── image
@@ -129,6 +131,6 @@ data
         ├── Umbrella_1613048079244.png
         └── Umbrella_1613048100459.png
         
-#References
+# References
 https://github.com/autonise/CRAFT-Remade
         
